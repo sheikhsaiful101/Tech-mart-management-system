@@ -1,4 +1,4 @@
-## T-05: Cart System
+ T-05: Cart System
 Shopping cart management system.
 
 *Features:*
@@ -11,7 +11,7 @@ Shopping cart management system.
 
 ---
 
-## T-03: Product Management
+ T-03: Product Management
 Product add, update and delete system.
 
 *Features:*
@@ -21,3 +21,16 @@ Product add, update and delete system.
 * Product category management
 
 *Status:* Implemented
+
+---
+ T-02: FR-ADMIN/CUSTOMER/AGENT-Secure Sign-in
+
+Secure login system for Admin, Customer and Agent.
+
+Features:
+- Email validation
+- Password encryption
+- Role based authentication
+- Login error handling
+
+Status: Implemented
