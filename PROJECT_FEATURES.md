@@ -21,9 +21,3 @@ Product add, update and delete system.
 * Product category management
 
 *Status:* Implemented
-
--Add product
--update product
--delete product
--product category management
-Status-Implemented
