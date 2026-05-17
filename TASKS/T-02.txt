@@ -1,0 +1,3 @@
+T-02: FR-ADMIN/CUSTOMER/AGENT-Secure Sign-in
+Secure login system for Admin, Customer and Agent
+Features: Email validation, password encryption, authentication
